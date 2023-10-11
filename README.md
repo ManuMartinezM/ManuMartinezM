@@ -4,9 +4,9 @@ I'm [Manuel Martínez Margalef](https://github.com/ManuMartinezM), a data scient
 
 🔍 You can explore some of my data-related projects and contributions to open-source repositories right here on GitHub. Feel free to connect with me to discuss collaboration opportunities or simply to chat about all things data!
 
-📫 **Contact**: [Your Email](manuelmartinezmargalef@gmail.com)
+📫 **Contact**: [E-Mail](manuelmartinezmargalef@gmail.com)
 
-🌐 **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/manuelmartinezmargalef)
+🌐 **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/manuelmartinezmargalef)
 
 ## Tools and Technologies
 
